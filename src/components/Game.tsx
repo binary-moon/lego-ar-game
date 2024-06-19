@@ -23,7 +23,7 @@ export function Game() {
       className="h-full w-full"
       src={`https://playcanv.as/index/73d9a544?gameDifficulty=${gameDifficulty}`}
       frameBorder="0"
-      allow="camera *; microphone *; fullscreen *; geolocation *"
+      allow="camera;gyroscope;accelerometer;magnetometer;xr-spatial-tracking;microphone;"
       allowFullScreen
     />
   );
