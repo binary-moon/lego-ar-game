@@ -73,7 +73,7 @@ export function Intro() {
             alt="Lego - Dreamzzz"
           />
           <motion.img
-            className="absolute bottom-[0%] left-0"
+            className="absolute bottom-[0%] right-0 w-[90%]"
             src={legoCharacter}
             alt="Lego Character"
           />
