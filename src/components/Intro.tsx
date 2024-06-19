@@ -73,13 +73,13 @@ export function Intro() {
             alt="Lego - Dreamzzz"
           />
           <motion.img
-            className="absolute bottom-[0%] right-0 w-[90%]"
+            className="absolute bottom-[0%] right-0 w-[80%]"
             src={legoCharacter}
             alt="Lego Character"
           />
           <motion.img
             variants={item}
-            className="absolute top-[10%] w-[90%] left-0"
+            className="absolute top-[13%] w-[85%] left-0"
             src={speechBubble}
             alt="So we are calling on all talented kids to join dream-crafters and help us defend the dreamzzz world!"
           />
