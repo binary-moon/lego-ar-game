@@ -79,7 +79,7 @@ export function Intro() {
           />
           <motion.img
             variants={item}
-            className="absolute top-[10%] left-0"
+            className="absolute top-[10%] w-[90%] left-0"
             src={speechBubble}
             alt="So we are calling on all talented kids to join dream-crafters and help us defend the dreamzzz world!"
           />
