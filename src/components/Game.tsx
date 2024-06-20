@@ -21,7 +21,7 @@ export function Game() {
   return (
     <iframe
       className="h-full w-full"
-      src={`https://playcanv.as/index/73d9a544?gameDifficulty=${gameDifficulty}`}
+      src={`/game/index.html?difficulty=${gameDifficulty}`}
       frameBorder="0"
       allow="camera;gyroscope;accelerometer;magnetometer;xr-spatial-tracking;microphone;"
       allowFullScreen
