@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import React, { useEffect } from "react";
 import { useStore } from "../useStore";
 
 export function Game() {
